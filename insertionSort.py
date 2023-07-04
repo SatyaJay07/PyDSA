@@ -10,3 +10,7 @@ def insertionSort(arr):
 ar=[5,4,3,2]
 insertionSort(ar)
 print("end")
+
+#output below
+"""[2, 3, 4, 5]
+end"""
